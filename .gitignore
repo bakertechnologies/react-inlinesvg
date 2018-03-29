@@ -3,7 +3,6 @@
 coverage/
 es/
 documentation/
-lib/
 node_modules/
 reports/
 selenium-debug.log
